@@ -4,3 +4,7 @@ matplotlib
 
 plotly
 requests
+scipy
+scikit-learn
+pandas
+numpy

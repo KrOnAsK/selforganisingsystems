@@ -1,0 +1,6 @@
+ipykernel
+seaborn
+matplotlib
+
+plotly
+requests

@@ -68,9 +68,9 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 - [ ] Written analysis of emergence + stabilization
 
 ### Task C7: Optimal SOM
-- [ ] Select optimal parameters based on C1-C6
-- [ ] Train optimal SOM
-- [ ] MLSO model description in KG
+- [x] Select optimal parameters based on C1-C6
+- [x] Train optimal SOM
+- [x] MLSO model description in KG
 - [ ] Detailed interpretation: density, hierarchy, topology, class distribution, QE/TE
 - [ ] Hierarchical cluster analysis (unit dendrogram added, needs interpretation)
 

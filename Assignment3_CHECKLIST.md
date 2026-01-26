@@ -40,39 +40,39 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 - [x] U-Matrix, hits, class map, class proportions
 - [x] QE map + TE map
 - [x] Border/magnification summary helper (edge vs inner)
-- [ ] Written interpretation of cluster structure, class overlap, border effect, magnification factors
+- [x] Written interpretation of cluster structure, class overlap, border effect, magnification factors
 
 ### Task C2: Different seed
 - [x] Second seed trained
 - [x] Comparative visuals (U, QE, TE)
-- [ ] Written comparison of stability/changes
+- [x] Written comparison of stability/changes
 
 ### Task C3: Map sizes
 - [x] Small + regular + large trained
 - [x] Comparative visuals (U, QE, TE)
-- [ ] Written comparison (under/overfitting)
+- [x] Written comparison (under/overfitting)
 
 ### Task C4: Sigma
 - [x] Too-small sigma trained
 - [x] Comparative visuals (U, QE, TE)
-- [ ] Written analysis of topology violations / failure mode
+- [x] Written analysis of topology violations / failure mode
 
 ### Task C5: Learning rate
 - [x] High + low LR trained
 - [x] Comparative visuals (U, QE, TE)
-- [ ] Written analysis of instability vs slow convergence
+- [x] Written analysis of instability vs slow convergence
 
 ### Task C6: Iterations
 - [x] Iteration sweep trained (2..10000)
 - [x] Comparative visuals (U, QE, TE)
-- [ ] Written analysis of emergence + stabilization
+- [x] Written analysis of emergence + stabilization
 
 ### Task C7: Optimal SOM
 - [x] Select optimal parameters based on C1-C6
 - [x] Train optimal SOM
 - [x] MLSO model description in KG
-- [ ] Detailed interpretation: density, hierarchy, topology, class distribution, QE/TE
-- [ ] Hierarchical cluster analysis (unit dendrogram added, needs interpretation)
+- [x] Detailed interpretation: density, hierarchy, topology, class distribution, QE/TE
+- [] Hierarchical cluster analysis (unit dendrogram added, needs interpretation)
 
 ## D) Report / Submission
 - [ ] Report structure follows assignment sections

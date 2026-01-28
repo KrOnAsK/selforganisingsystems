@@ -5,7 +5,7 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 ## A) Toolbox + Provenance Setup
 - [x] PySOMVis/MiniSom imported and used
 - [x] PROV logging infrastructure wired via Starvers
-- [ ] PROV logging for all analysis/visualization outputs (only runs + dataset/preprocessing logged so far)
+- [ ] PROV logging for all analysis/visualization outputs (plot logging hooks exist; analysis/log cells not executed in notebook)
 
 ## B) Dataset
 ### Selection/Registration
@@ -15,7 +15,7 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 ### Machine-Actionable Description
 - [x] OpenML metadata snapshot embedded in notebook
 - [x] Dataset entity logged to KG with Schema.org + Croissant types
-- [ ] Full Croissant/Schema.org field-level schema (feature list, types, distribution) in KG
+- [x] Full Croissant/Schema.org field-level schema (feature list, types, distribution) in KG
 
 ### Dataset Characterization
 - [x] Size, numeric/categorical counts
@@ -70,9 +70,10 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 ### Task C7: Optimal SOM
 - [x] Select optimal parameters based on C1-C6
 - [x] Train optimal SOM
-- [x] MLSO model description in KG
+- [ ] MLSO model description in KG
 - [x] Detailed interpretation: density, hierarchy, topology, class distribution, QE/TE
-- [] Hierarchical cluster analysis (unit dendrogram added, needs interpretation)
+- [ ] C7 TE map + class proportion maps saved/logged
+- [ ] Hierarchical cluster analysis (unit dendrogram for optimal SOM + interpretation)
 
 ## D) Report / Submission
 - [ ] Report structure follows assignment sections
@@ -81,4 +82,3 @@ Status reflects the current notebook state in `Assignment3.ipynb`.
 - [ ] Final summary (parameters, sensitivity, useful visualizations)
 - [ ] PDF export of notebook (if required)
 - [ ] Zip submission naming convention
-

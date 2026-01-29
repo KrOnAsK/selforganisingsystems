@@ -1,9 +1,0 @@
-default:
-  propertyIdentifiers:
-    - rdf:Property
-    - owl:ObjectProperty
-    - owl:DatatypeProperty
-
-orkg: 
-  propertyIdentifiers:
-    - <http://orkg.org/orkg/class/Predicate>

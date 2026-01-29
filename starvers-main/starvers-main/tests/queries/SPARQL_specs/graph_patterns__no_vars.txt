@@ -1,3 +1,0 @@
-Select * {
-    <http://identi.ca/user/413169#acct> <http://rdfs.org/sioc/ns#follows> <http://identi.ca/user/31996#acct> .
-}

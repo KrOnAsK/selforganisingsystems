@@ -1,6 +1,0 @@
-CONSTRUCT { ?s ?p ?o }
-WHERE {
-    GRAPH <{:graph}> {
-    	?s ?p ?o
-	}
-}
